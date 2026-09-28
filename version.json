@@ -6,5 +6,5 @@
   "published": true,
   "download_url": "https://github.com/xuebing0229/release-files/releases/latest/download/app-beta.apk",
   "sha256": "f024b5e8f7b627004012c451026618290a8fd8aa410a0af68e84284fb0d2754c",
-  "notes": "修复节点预设：新建预设、编辑已有预设、增删节点、拖动排序并保存。"
+  "notes": "修复：节点预设改动不影响旧订单；检查更新移至设置页；更新检查改用 GitHub Releases，避免 raw.githubusercontent.com 解析失败。"
 }
