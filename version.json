@@ -6,5 +6,5 @@
   "published": true,
   "download_url": "https://github.com/xuebing0229/release-files/releases/latest/download/app-beta.apk",
   "sha256": "93bc61ca43abcde3cbcdd82cb4e13cee8a2ee1ede4374d04aac372d7abf27113",
-  "notes": "新增 App 内测试版更新入口。"
+  "notes": "首个功能预览：排单列表、订单详情编辑、日程、统计、侧边栏与节点预设入口。"
 }
