@@ -1,7 +1,10 @@
 {
+  "schema": 1,
   "channel": "beta",
   "version": "0.0.0",
   "build": 0,
-  "download_url": null,
-  "sha256": null
+  "published": false,
+  "download_url": "https://github.com/xuebing0229/release-files/releases/latest/download/app-beta.apk",
+  "sha256": null,
+  "notes": ""
 }
