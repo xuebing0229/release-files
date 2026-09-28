@@ -2,9 +2,9 @@
   "schema": 1,
   "channel": "beta",
   "version": "0.0.1",
-  "build": 3,
+  "build": 4,
   "published": true,
   "download_url": "https://github.com/xuebing0229/release-files/releases/latest/download/app-beta.apk",
-  "sha256": "afa205c14810b4675dc85248ef4fc52e39a7b76264b034ee7f0b2d12bd78d0c5",
+  "sha256": "4e90cb97379ccf5acc7ffda9ee86fac9b75edcfe18bc82aadba0ad25be922276",
   "notes": "新增排单：排单页可新建订单，并同步到日程与统计。"
 }
