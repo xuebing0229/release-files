@@ -2,9 +2,9 @@
   "schema": 1,
   "channel": "beta",
   "version": "0.0.1",
-  "build": 4,
+  "build": 5,
   "published": true,
   "download_url": "https://github.com/xuebing0229/release-files/releases/latest/download/app-beta.apk",
-  "sha256": "4e90cb97379ccf5acc7ffda9ee86fac9b75edcfe18bc82aadba0ad25be922276",
+  "sha256": "f024b5e8f7b627004012c451026618290a8fd8aa410a0af68e84284fb0d2754c",
   "notes": "修复节点预设：新建预设、编辑已有预设、增删节点、拖动排序并保存。"
 }
