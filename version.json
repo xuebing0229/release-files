@@ -6,5 +6,5 @@
   "published": true,
   "download_url": "https://github.com/xuebing0229/release-files/releases/latest/download/app-beta.apk",
   "sha256": "4e90cb97379ccf5acc7ffda9ee86fac9b75edcfe18bc82aadba0ad25be922276",
-  "notes": "新增排单：排单页可新建订单，并同步到日程与统计。"
+  "notes": "修复节点预设：新建预设、编辑已有预设、增删节点、拖动排序并保存。"
 }
