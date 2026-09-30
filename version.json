@@ -5,6 +5,6 @@
   "build": 26,
   "published": true,
   "download_url": "https://github.com/xuebing0229/release-files/releases/latest/download/app-beta.apk",
-  "sha256": "a3d6a3901b4f16f76cb5171399a339fd86e5ac3239a57920459ab8be7a68c528",
+  "sha256": "ca4927e06513661fac2db1c96847e8d62b6b9834132e6a3be555a174a80eeab8",
   "notes": "修复：节点预设改动不影响旧订单；检查更新移至设置页；更新检查改用 GitHub Releases，避免 raw.githubusercontent.com 解析失败。"
 }
