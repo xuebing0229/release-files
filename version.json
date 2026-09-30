@@ -2,9 +2,9 @@
   "schema": 1,
   "channel": "beta",
   "version": "0.0.1",
-  "build": 35,
+  "build": 36,
   "published": true,
   "download_url": "https://github.com/xuebing0229/release-files/releases/latest/download/app-beta.apk",
-  "sha256": "b484b8205f1f79c7ed8a0d649a0f8c7d79df926d3d3669ce64bc466f82031512",
+  "sha256": "2c6d99171fe8cecab34ba3415455ff430752ab4ba758aedd85b7d319b286a780",
   "notes": "修复：节点预设改动不影响旧订单；检查更新移至设置页；更新检查改用 GitHub Releases，避免 raw.githubusercontent.com 解析失败。"
 }
