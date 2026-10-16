@@ -2,14 +2,14 @@
   "schema": 1,
   "channel": "beta",
   "version": "0.0.1",
-  "build": 152,
+  "build": 153,
   "published": true,
-  "download_url": "https://github.com/xuebing0229/release-files/releases/download/beta-v0.0.1%2B152-run109/app-beta.apk",
+  "download_url": "https://github.com/xuebing0229/release-files/releases/download/beta-v0.0.1%2B153-run110/app-beta.apk",
   "notes": "修复：节点预设改动不影响旧订单；检查更新移至设置页；更新检查改用 GitHub Releases，避免 raw.githubusercontent.com 解析失败。新增截图识别本机诊断复制；优化米画师及画加稿价、图名、截稿时间与订单详情页识别。",
-  "windows_download_url": "https://github.com/xuebing0229/release-files/releases/download/beta-v0.0.1%2B152-run109/app-windows-beta.zip",
-  "windows_installer_url": "https://github.com/xuebing0229/release-files/releases/download/beta-v0.0.1%2B152-run109/app-windows-beta-setup.exe",
-  "android_size_bytes": 155915007,
-  "android_sha256": "12d38181ed35264544353269791c4dd39483ce5ecb8228e8f9823d477e41a774",
-  "windows_size_bytes": 233797632,
-  "windows_sha256": "72c5bf1143afe185b214ceea036fb1024aeb30fc713dcdb54aeb4918c404575f"
+  "windows_download_url": "https://github.com/xuebing0229/release-files/releases/download/beta-v0.0.1%2B153-run110/app-windows-beta.zip",
+  "windows_installer_url": "https://github.com/xuebing0229/release-files/releases/download/beta-v0.0.1%2B153-run110/app-windows-beta-setup.exe",
+  "android_size_bytes": 155913571,
+  "android_sha256": "ca69ea42ef1f4617adaa6dbba7a21046b8d11ef173149f3d36ec14b9a2109a67",
+  "windows_size_bytes": 233800491,
+  "windows_sha256": "e7f666fb9ba483a34ead02af65daeaa6b4a7ffd0f4edfd64e22d26291ea84024"
 }
