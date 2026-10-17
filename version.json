@@ -5,7 +5,7 @@
   "build": 165,
   "published": true,
   "download_url": "https://github.com/xuebing0229/release-files/releases/download/beta-v0.0.1%2B165-run124/app-beta.apk",
-  "notes": "修复 Windows 新设备加入时可能长期停在“正在初始化同步核心”的问题；本地 Syncthing 请求与进程启动加入完整超时，异常核心不再让界面无限等待；旧同步进程清理改为只针对当前同步配置目录，避免不同安装渠道互相关闭同步核心。保留动态端口迁移、目录握手与卡住自动修复。",
+  "notes": "修复 Windows 在加入已有账号或导入备份时，明明选中了 JSON 文件却可能拿到空路径并报 PathNotFoundException 的问题。备份选择改为只接受真实文件系统文件，并在文件存在后再读取。",
   "windows_download_url": "https://github.com/xuebing0229/release-files/releases/download/beta-v0.0.1%2B165-run124/app-windows-beta.zip",
   "windows_installer_url": "https://github.com/xuebing0229/release-files/releases/download/beta-v0.0.1%2B165-run124/app-windows-beta-setup.exe",
   "android_size_bytes": 156497791,
