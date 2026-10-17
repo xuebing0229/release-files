@@ -2,14 +2,14 @@
   "schema": 1,
   "channel": "beta",
   "version": "0.0.1",
-  "build": 164,
+  "build": 165,
   "published": true,
-  "download_url": "https://github.com/xuebing0229/release-files/releases/download/beta-v0.0.1%2B164-run123/app-beta.apk",
+  "download_url": "https://github.com/xuebing0229/release-files/releases/download/beta-v0.0.1%2B165-run124/app-beta.apk",
   "notes": "修复 Windows 新设备加入时可能长期停在“正在初始化同步核心”的问题；本地 Syncthing 请求与进程启动加入完整超时，异常核心不再让界面无限等待；旧同步进程清理改为只针对当前同步配置目录，避免不同安装渠道互相关闭同步核心。保留动态端口迁移、目录握手与卡住自动修复。",
-  "windows_download_url": "https://github.com/xuebing0229/release-files/releases/download/beta-v0.0.1%2B164-run123/app-windows-beta.zip",
-  "windows_installer_url": "https://github.com/xuebing0229/release-files/releases/download/beta-v0.0.1%2B164-run123/app-windows-beta-setup.exe",
-  "android_size_bytes": 156497711,
-  "android_sha256": "7c94f6e0b2b6ba11e85338a669b6b0f8aab1f5d62b1a30b6e5064e960423d20e",
-  "windows_size_bytes": 233911657,
-  "windows_sha256": "c4e4eee885040b9f9d701f2ebf3bc993757ecc978529ca6fe19f5798f521fae5"
+  "windows_download_url": "https://github.com/xuebing0229/release-files/releases/download/beta-v0.0.1%2B165-run124/app-windows-beta.zip",
+  "windows_installer_url": "https://github.com/xuebing0229/release-files/releases/download/beta-v0.0.1%2B165-run124/app-windows-beta-setup.exe",
+  "android_size_bytes": 156497791,
+  "android_sha256": "c6d91d91e6c0963bb977ad85f91bcfc807f13b2561abd6320b916b2cae485107",
+  "windows_size_bytes": 233928099,
+  "windows_sha256": "05c42f20819f83c88eeacaa862131fd2b880b87cf74c8cb9b62418a1261ddf1b"
 }
