@@ -5,7 +5,7 @@
   "build": 166,
   "published": true,
   "download_url": "https://github.com/xuebing0229/release-files/releases/download/beta-v0.0.1%2B166-run125/app-beta.apk",
-  "notes": "修复 Windows 在加入已有账号或导入备份时，明明选中了 JSON 文件却可能拿到空路径并报 PathNotFoundException 的问题。备份选择改为只接受真实文件系统文件，并在文件存在后再读取。",
+  "notes": "修复设备从本机解绑后，其他设备的“使用中设备”仍可能长期保留旧设备的问题。本机解绑沿用原有 revocation tombstone + ACK 协议，并把未送达状态保存在本机隐藏发件箱；之后只要冒险者公会再次打开，无论停在登录页还是正在使用其他账号，都会后台静默继续传递，逐台完成后再清理旧同步工作区。退出登录逻辑保持不变。",
   "windows_download_url": "https://github.com/xuebing0229/release-files/releases/download/beta-v0.0.1%2B166-run125/app-windows-beta.zip",
   "windows_installer_url": "https://github.com/xuebing0229/release-files/releases/download/beta-v0.0.1%2B166-run125/app-windows-beta-setup.exe",
   "android_size_bytes": 156533823,
