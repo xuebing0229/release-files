@@ -5,7 +5,7 @@
   "build": 167,
   "published": true,
   "download_url": "https://github.com/xuebing0229/release-files/releases/download/beta-v0.0.1%2B167-run126/app-beta.apk",
-  "notes": "修复设备从本机解绑后，其他设备的“使用中设备”仍可能长期保留旧设备的问题。本机解绑沿用原有 revocation tombstone + ACK 协议，并把未送达状态保存在本机隐藏发件箱；之后只要冒险者公会再次打开，无论停在登录页还是正在使用其他账号，都会后台静默继续传递，逐台完成后再清理旧同步工作区。退出登录逻辑保持不变。",
+  "notes": "设置新增“关于冒险者公会”，可查看当前版本以及开源软件与致谢；VPet-Simulator.Core 在关于页保留一次简洁致谢，并继续在 Windows 桌宠组件旁保留对应 Apache-2.0 许可证文件。",
   "windows_download_url": "https://github.com/xuebing0229/release-files/releases/download/beta-v0.0.1%2B167-run126/app-windows-beta.zip",
   "windows_installer_url": "https://github.com/xuebing0229/release-files/releases/download/beta-v0.0.1%2B167-run126/app-windows-beta-setup.exe",
   "android_size_bytes": 155931491,
