@@ -2,14 +2,14 @@
   "schema": 1,
   "channel": "beta",
   "version": "0.0.1",
-  "build": 181,
+  "build": 182,
   "published": true,
-  "download_url": "https://github.com/xuebing0229/release-files/releases/download/beta-v0.0.1%2B181-run151/app-beta.apk",
+  "download_url": "https://github.com/xuebing0229/release-files/releases/download/beta-v0.0.1%2B182-run152/app-beta.apk",
   "notes": "设置新增“关于冒险者公会”，可查看当前版本以及开源软件与致谢；VPet-Simulator.Core 在关于页保留一次简洁致谢，并继续在 Windows 桌宠组件旁保留对应 Apache-2.0 许可证文件。",
-  "windows_download_url": "https://github.com/xuebing0229/release-files/releases/download/beta-v0.0.1%2B181-run151/app-windows-beta.zip",
-  "windows_installer_url": "https://github.com/xuebing0229/release-files/releases/download/beta-v0.0.1%2B181-run151/app-windows-beta-setup.exe",
-  "android_size_bytes": 156612815,
-  "android_sha256": "50de713730e4d9f2663ce246d4c953cf7da7fe793cd9ef5c4c946fc4d1278489",
-  "windows_size_bytes": 233977181,
-  "windows_sha256": "6cabd47abd9ec9bb642c389cb2868c84022d40df17937e9d6361d8cf8a30fa05"
+  "windows_download_url": "https://github.com/xuebing0229/release-files/releases/download/beta-v0.0.1%2B182-run152/app-windows-beta.zip",
+  "windows_installer_url": "https://github.com/xuebing0229/release-files/releases/download/beta-v0.0.1%2B182-run152/app-windows-beta-setup.exe",
+  "android_size_bytes": 156613203,
+  "android_sha256": "f659a36f8e9e29e367b2504e29309ec07ecef903fcd595f7d553e9fe6cf1fc5f",
+  "windows_size_bytes": 233977478,
+  "windows_sha256": "5c478dc31c009bf2c092e2c8bdd3876a244ec508d2b25cab17c7d1ac4da0e1a1"
 }
