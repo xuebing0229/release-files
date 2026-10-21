@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "adventurers-guild-pwa",
+  "name": "adventurers-guild-pwa-beta",
   "main": "worker.js",
   "compatibility_date": "2026-10-21",
   "durable_objects": {
