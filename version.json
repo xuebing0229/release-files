@@ -5,7 +5,7 @@
   "build": 183,
   "published": true,
   "download_url": "https://github.com/xuebing0229/release-files/releases/download/beta-v0.0.1%2B183-run156/app-beta.apk",
-  "notes": "设置新增“关于冒险者公会”，可查看当前版本以及开源软件与致谢；VPet-Simulator.Core 在关于页保留一次简洁致谢，并继续在 Windows 桌宠组件旁保留对应 Apache-2.0 许可证文件。",
+  "notes": "Beta 0.0.1 (183) · PWA 点对点同步支持",
   "windows_download_url": "https://github.com/xuebing0229/release-files/releases/download/beta-v0.0.1%2B183-run156/app-windows-beta.zip",
   "windows_installer_url": "https://github.com/xuebing0229/release-files/releases/download/beta-v0.0.1%2B183-run156/app-windows-beta-setup.exe",
   "android_size_bytes": 174386884,
