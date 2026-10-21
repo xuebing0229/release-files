@@ -89,7 +89,9 @@ def main() -> None:
         "  Cache-Control: no-cache, must-revalidate\n",
         encoding="utf-8",
     )
-    (OUTPUT / "_redirects").write_text("/* /index.html 200\n", encoding="utf-8")
+    # Workers Static Assets rejects the Pages-style catch-all _redirects rule as
+    # an infinite loop. Flutter's default hash routing does not need it.
+    (OUTPUT / "_redirects").unlink(missing_ok=True)
     (OUTPUT / "build-meta.json").write_text(
         json.dumps(
             {
