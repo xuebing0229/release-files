@@ -79,13 +79,23 @@ def main() -> None:
     if missing:
         raise SystemExit("PWA package is missing: " + ", ".join(missing))
 
-    # Keep the update-critical shell files revalidated at the edge.
+    # Keep every un-hashed startup resource revalidated at the edge.
     (OUTPUT / "_headers").write_text(
         "/pwa_service_worker.js\n"
         "  Cache-Control: no-cache, no-store, must-revalidate\n"
         "/index.html\n"
         "  Cache-Control: no-cache, must-revalidate\n"
         "/flutter_bootstrap.js\n"
+        "  Cache-Control: no-cache, must-revalidate\n"
+        "/main.dart.js\n"
+        "  Cache-Control: no-cache, must-revalidate\n"
+        "/pwa_platform_bridge.js\n"
+        "  Cache-Control: no-cache, must-revalidate\n"
+        "/pwa_ocr_bridge.js\n"
+        "  Cache-Control: no-cache, must-revalidate\n"
+        "/version.json\n"
+        "  Cache-Control: no-cache, must-revalidate\n"
+        "/manifest.json\n"
         "  Cache-Control: no-cache, must-revalidate\n",
         encoding="utf-8",
     )
