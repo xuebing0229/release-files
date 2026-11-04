@@ -7,5 +7,6 @@
   "pwa_download_url": "https://github.com/xuebing0229/release-files/releases/download/internal-pwa-v0.2.0%2B13-run5/app-pwa-internal.zip",
   "pwa_size_bytes": 14871987,
   "pwa_sha256": "cf190c913527d9b50b9c8d6acf1cc1a504d12f28606cd88384d74cfb2a179748",
-  "notes": "Internal 0.2.0"
+  "notes": "Internal 0.2.0",
+  "deployment_revision": 13
 }
