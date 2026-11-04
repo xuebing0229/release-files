@@ -2,10 +2,10 @@
   "schema": 1,
   "channel": "internal",
   "version": "0.2.0",
-  "build": 11,
+  "build": 12,
   "published": true,
-  "pwa_download_url": "https://github.com/xuebing0229/release-files/releases/download/internal-v0.2.0%2B11/app-pwa-internal.zip",
-  "pwa_size_bytes": 14871824,
-  "pwa_sha256": "ef8441843dc8028f3ffef31d47ffb85f4c9da2325c0d997d2936177fd1ea18db",
+  "pwa_download_url": "https://github.com/xuebing0229/release-files/releases/download/internal-pwa-v0.2.0%2B12-run4/app-pwa-internal.zip",
+  "pwa_size_bytes": 14871808,
+  "pwa_sha256": "1ee436ef716710f7813e7f75c2dc35888ba4e754872f7830b715b0e758f6229f",
   "notes": "Internal 0.2.0"
 }
