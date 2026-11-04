@@ -4,8 +4,8 @@
   "version": "0.2.0",
   "build": 11,
   "published": true,
-  "pwa_download_url": "https://github.com/xuebing0229/release-files/releases/download/internal-pwa-v0.2.0%2B11-run2/app-pwa-internal.zip",
-  "pwa_size_bytes": 14871841,
-  "pwa_sha256": "2ddfc4ca418cd9ba8eae4d376b11b7fdb619a4dbb1493b65521bca98afd9cdd8",
-  "notes": "Internal 0.2.0 promoted from Beta 241"
+  "pwa_download_url": "https://github.com/xuebing0229/release-files/releases/download/internal-v0.2.0%2B11/app-pwa-internal.zip",
+  "pwa_size_bytes": 14871824,
+  "pwa_sha256": "ef8441843dc8028f3ffef31d47ffb85f4c9da2325c0d997d2936177fd1ea18db",
+  "notes": "Internal 0.2.0"
 }
