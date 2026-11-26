@@ -1,12 +1,37 @@
 {
   "schema": 1,
   "channel": "internal",
-  "version": "0.2.0",
-  "build": 13,
+  "version": "0.2.1",
+  "build": 14,
+  "source_test_build": 256,
   "published": true,
-  "pwa_download_url": "https://github.com/xuebing0229/release-files/releases/download/internal-pwa-v0.2.0%2B13-run5/app-pwa-internal.zip",
-  "pwa_size_bytes": 14871987,
-  "pwa_sha256": "cf190c913527d9b50b9c8d6acf1cc1a504d12f28606cd88384d74cfb2a179748",
-  "notes": "Internal 0.2.0",
-  "deployment_revision": 13
+  "notes": "冒险者公会 0.2.1 内测版更新\n全新图片主题：可自选背景并裁剪适配，支持全图覆盖与玻璃透明两种效果，以及单独设置字体颜色。\n截图导入优化：支持预先选择平台，改进长图与特殊排版识别；同名作品可沿用最近一次手动设置的稿价。\n修复部分订单归档和节点进度在跨设备同步时可能出现的状态回退。\n统一部分功能说明提示，改善专注排序布局、按钮与背景显示，提升操作体验。",
+  "download_url": "https://github.com/xuebing0229/release-files/releases/download/internal-v0.2.1%2B14-run30/app-internal-arm64-v8a.apk",
+  "size_bytes": 68906652,
+  "sha256": "08a2c64cb05e55b1c4136bb7897474e793ee556582213e3a3c06edc637850928",
+  "android_apks": {
+    "arm64-v8a": {
+      "download_url": "https://github.com/xuebing0229/release-files/releases/download/internal-v0.2.1%2B14-run30/app-internal-arm64-v8a.apk",
+      "size_bytes": 68906652,
+      "sha256": "08a2c64cb05e55b1c4136bb7897474e793ee556582213e3a3c06edc637850928"
+    },
+    "armeabi-v7a": {
+      "download_url": "https://github.com/xuebing0229/release-files/releases/download/internal-v0.2.1%2B14-run30/app-internal-armeabi-v7a.apk",
+      "size_bytes": 66728890,
+      "sha256": "67864df268dd2643f7f79e378db3008c1dc0c980b6ab9ca9884a2a63682e961d"
+    },
+    "x86_64": {
+      "download_url": "https://github.com/xuebing0229/release-files/releases/download/internal-v0.2.1%2B14-run30/app-internal-x86_64.apk",
+      "size_bytes": 86490647,
+      "sha256": "2eb700d2a502aee3d2b47d75dca8ded0d858660767a26a639549166f1a908d19"
+    }
+  },
+  "windows_download_url": "https://github.com/xuebing0229/release-files/releases/download/internal-v0.2.1%2B14-run30/app-windows-internal.zip",
+  "windows_size_bytes": 236700444,
+  "windows_sha256": "940d0aaeaeff33aeb070f2af3897e1910d283266925468db1fac1d3d4a6e28ba",
+  "windows_installer_url": "https://github.com/xuebing0229/release-files/releases/download/internal-v0.2.1%2B14-run30/app-windows-internal-setup.exe",
+  "pwa_download_url": "https://github.com/xuebing0229/release-files/releases/download/internal-v0.2.1%2B14-run30/app-pwa-internal.zip",
+  "pwa_size_bytes": 14994967,
+  "pwa_sha256": "e74eba6d9545f7bd835e8bd78a05d64c6a55e9428cb2576ceb9be274c5e91eac",
+  "deployment_revision": 14
 }
